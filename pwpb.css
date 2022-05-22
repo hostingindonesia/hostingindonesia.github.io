@@ -1,0 +1,353 @@
+.navbar {
+  height: 70px;
+}
+#navbarNavAltMarkup {
+  margin-left: 300px !important;
+  font-size: 20px;
+}
+.image {
+  width: 400px !important;
+  margin-left: 50px;
+}
+.image1 {
+  margin-top: -600px;
+  width: 400px;
+  margin-left: 800px;
+}
+#home {
+  margin-right: 30px;
+  color: #fff;
+  font-weight: bold;
+  font-family: Comic Sans MS;
+}
+#hosting {
+  margin-right: 30px;
+  color: #fff;
+  font-weight: bold;
+  font-family: Comic Sans MS;
+}
+#paket {
+  margin-right: 30px;
+  color: #fff;
+  font-weight: bold;
+  font-family: Comic Sans MS;
+}
+#contact {
+  margin-right: 30px;
+  color: #fff;
+  font-weight: bold;
+  font-family: Comic Sans MS;
+}
+.jumbotron {
+  background-image: url(image/wp2827973-abstract-background.png);
+  background-size: cover;
+  margin-bottom: -20px;
+  margin-top: -370px;
+  width: auto;
+  height: 657px;
+  text-align: center;
+}
+.jumbotron::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  bottom: 0;
+}
+.jumbotron .display-4 {
+  font-size: 0px;
+  margin-top: 300px;
+  font-weight: 10px;
+}
+.jumbotron .display-41 {
+  font-size: 60px;
+  color: #fff;
+  text-shadow: 2px 1px 2px rgba(0, 0, 0, 1);
+  margin-top: 250px;
+  margin-left: -750px;
+  font-weight: 10px;
+}
+.jumbotron .display-42 {
+  font-size: 60px;
+  color: #fff;
+  text-shadow: 2px 1px 2px rgba(0, 0, 0, 1);
+  margin-left: -660px;
+  margin-top: 00px;
+  font-weight: 10px;
+}
+.lead {
+  font-size: 25px !important;
+  color: #d3d3d3;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 1);
+  margin-left: -740px;
+  opacity: 90%;
+  margin-top: 30px;
+  font-weight: bold !important;
+}
+.lead1 {
+  font-size: 25px !important;
+  color: #d3d3d3;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 1);
+  margin-left: -790px;
+  opacity: 90%;
+  margin-top: -10px;
+  font-weight: bold !important;
+}
+.button {
+  width: 250px;
+  height: 50px;
+  margin-left: -900px;
+  margin-top: 30px;
+  font-size: 15px;
+  color: #fff;
+  font-weight: bold;
+  background-color: orange;
+  border-radius: 100px;
+  border: 10px;
+}
+.paket {
+  text-align: center;
+  margin-top: 50px;
+}
+.container {
+  background-color: #fff;
+  border-radius: 0px solid #d3d3d3;
+  box-shadow: 1px 2px 4px rgb(90, 90, 90);
+  border-radius: 30px;
+  width: 280px !important;
+  height: 540px;
+  margin-left: 50px !important;
+  font-size: 30px;
+}
+.container-class {
+  background-color: #fff;
+  border-radius: 0px solid #d3d3d3;
+  box-shadow: 1px 2px 4px rgb(90, 90, 90);
+  border-radius: 30px;
+  width: 280px !important;
+  margin-top: -590px;
+  margin-left: 370px;
+  height: 540px;
+  font-size: 30px;
+}
+.container-class1 {
+  background-color: #fff;
+  border-radius: 0px solid #d3d3d3;
+  box-shadow: 1px 2px 4px rgb(90, 90, 90);
+  border-radius: 30px;
+  width: 280px !important;
+  height: 540px;
+  margin-top: -590px;
+  margin-left: 690px;
+  font-size: 30px;
+}
+.container-class2 {
+  background-color: #fff;
+  border-radius: 0px solid #d3d3d3;
+  box-shadow: 1px 2px 4px rgb(90, 90, 90);
+  border-radius: 30px;
+  width: 280px !important;
+  height: 540px;
+  margin-top: -590px;
+  margin-left: 1010px !important;
+  font-size: 30px;
+}
+.button1 {
+  font-size: 20px;
+  width: 250px;
+  height: 50px;
+  background-color: orange;
+  border: orange;
+  color: black !important;
+  border-radius: 30px;
+  margin-top: 50px;
+  font-weight: 500;
+  text-align: center;
+}
+.a {
+  color: #000;
+}
+.bulann {
+  font-size: 0px;
+  margin-top: 50px;
+}
+.bayi1 {
+  margin-top: 30px !important;
+  font-size: 30px;
+  font-weight: 500;
+}
+.pemula {
+  margin-top: 0px;
+  font-size: 20px;
+}
+z {
+  color: orange;
+  font-weight: 500;
+  font-size: 25px;
+}
+.bulan {
+  margin-top: 30px;
+  font-weight: 500;
+  font-size: 20px;
+}
+.mb {
+  margin-top: 25px;
+}
+.fa-solid {
+  color: orange;
+  font-size: 22px;
+}
+.domain {
+  margin-top: 25px;
+}
+.pelajar {
+  margin-left: 10px;
+  margin-top: 30px !important;
+  font-size: 30px;
+  font-weight: 500;
+}
+.personal {
+  margin-left: 10px;
+  margin-top: 0px;
+  font-size: 20px;
+}
+z {
+  color: orange;
+  font-weight: 500;
+  font-size: 25px;
+}
+.bulan1 {
+  margin-left: 10px;
+  margin-top: 30px;
+  font-weight: 500;
+  font-size: 20px;
+}
+.mb1 {
+  margin-left: 10px;
+  margin-top: 25px;
+}
+.fa-solid {
+  color: orange;
+  font-size: 22px;
+}
+.domain1 {
+  margin-left: 10px;
+  margin-top: 25px;
+}
+.personal1 {
+  margin-left: 10px;
+  margin-top: 30px !important;
+  font-size: 30px;
+  font-weight: 500 !important;
+}
+.profil {
+  margin-left: 5px;
+  margin-top: 0px;
+  font-size: 20px;
+}
+z {
+  color: orange;
+  font-weight: 500;
+  font-size: 25px;
+}
+.bulan2 {
+  margin-left: 10px;
+  margin-top: 30px;
+  font-weight: 500;
+  font-size: 20px;
+}
+.mb2 {
+  margin-left: 10px;
+  margin-top: 25px;
+}
+.fa-solid {
+  color: orange;
+  font-size: 22px;
+}
+.domain2 {
+  margin-left: 10px;
+  margin-top: 25px;
+}
+.bisnis {
+  margin-left: 10px;
+  margin-top: 30px !important;
+  font-size: 30px;
+  font-weight: 500;
+}
+.website {
+  margin-left: 10px;
+  margin-top: 0px;
+  font-size: 20px;
+}
+z {
+  color: orange;
+  font-weight: 500;
+  font-size: 25px;
+}
+.bulan3 {
+  margin-left: 10px;
+  margin-top: 30px;
+  font-weight: 500;
+  font-size: 20px;
+}
+.mb3 {
+  margin-top: 25px;
+  margin-left: 10px;
+}
+.fa-solid {
+  color: orange;
+  font-size: 22px;
+}
+.domain3 {
+  margin-left: 10px;
+  margin-top: 25px;
+}
+.disk {
+  margin-left: 10px;
+  font-size: 23px;
+}
+.form {
+  background-image: url(image/wp2827973-abstract-background.png);
+  height: 420px;
+}
+.isi {
+  margin-top: 100px;
+  font-size: 0px;
+}
+.isi1 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 40px !important;
+  text-align: center;
+  color: #fff;
+  text-shadow: 2px 1px 2px rgba(0, 0, 0, 1);
+}
+.input-container {
+  margin-left: 350px;
+}
+.text-input {
+  width: 300px;
+}
+.text-input1 {
+  height: 120px;
+  width: 300px;
+}
+.input-container-class {
+  margin-top: -162px;
+  margin-left: 690px;
+}
+#daftar {
+  margin-top: 20px;
+  width: 640px;
+  background-color: orange;
+  border: orange;
+  margin-left: 350px;
+}
+.created {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 20px;
+  color: #fff;
+  text-shadow: 2px 1px 2px rgba(0, 0, 0, 1);
+}
